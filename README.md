@@ -8,4 +8,5 @@
 <hr/>
 
 <h1>How works?</h1>
+-In my opinion everyone knows how to play snake game.If you are here and don't know please find me.I'll explain you.
 
